@@ -1,1 +1,3 @@
-# Hospital_dashboard
+# Hospital_Dashboard
+A Hospital Dashboard in Excel is a dynamic, visual tool that consolidates and displays key performance indicators (KPIs), metrics, and data related to hospital operations, patient care, resource management, and financial performance. It helps administrators, doctors, and stakeholders make data-driven decisions by providing real-time or periodic insights in an organized format. 
+A hospital dashboard in Excel is like a digital report card that shows important information about how a hospital is running. It uses easy-to-read charts, tables, and numbers to help doctors, nurses, and managers quickly understand
